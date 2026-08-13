@@ -98,7 +98,7 @@ Here you add each Azure service that you need to the calculator. Then you config
     | Operating system | **Windows**           |
     | Type             | **(OS Only)**         |
     | Tier             | **Standard**          |
-    | Instance         | **D2 v3**             |
+    | Instance         | **D2s v5**            |
     | Virtual machines | **2** x **730 Hours** |
     
     Leave the remaining settings at their current values.
