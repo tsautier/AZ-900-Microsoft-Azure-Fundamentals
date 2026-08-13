@@ -102,8 +102,6 @@ Here you add each Azure service that you need to the calculator. Then you config
     | Virtual machines | **2** x **730 Hours** |
     
     Leave the remaining settings at their current values.
-
-    If **D2s v5** isn't available, select **D2s v6**. If **D2s v6** isn't available, select **D2s v7**.
 2.  Under **Azure SQL Database**, set these values:
     
     | **Setting**         | **Value**           |
